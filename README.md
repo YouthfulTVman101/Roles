@@ -63,6 +63,7 @@ Given to friends of the owners
 
 <h2>Teir Roles</h2>
 Represented with a white circle, type !help for more info
+<h5>Level Roles only change your color</h5>
 
 <h3>Tier 4</h3>
 <h4>Great Oof</h4>
@@ -151,4 +152,4 @@ Mutes are given out after a user breaks a rule
 <h4>Fifth Infraction Per 30 Day Month</h4>
 1 day mute
 
-<h5>Moderators+ can mute or unmute any member at any time for any reason, if a staff member is abusing this power please contact one of the owners</h5>
+<h6>Moderators+ can mute or unmute any member at any time for any reason, if a staff member is abusing this power please contact one of the owners</h6>
