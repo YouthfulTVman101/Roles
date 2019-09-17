@@ -9,10 +9,7 @@ These roles are represnted with a red circle
 Given to the Owner
 
 <h4>Lord Of Oofs</h4>
-Given to the Co-Owner
-
-<h4>Event Manager Oof</h4>
-Given to any staff members who want to host an event (will be taken away as soon as your event is over)
+Given to the most trusted members
 
 <h4>Head-Admin Oofs</h4>
 Chosen by the owners, given to the most trusted and most active staff members
@@ -26,17 +23,26 @@ Given to the first 5 moderators (will replace any that get promoted/demoted with
 <h4>Moderator Oof</h4>
 Chosen by the current staff members, must be at least a recruit
 
+<h4>Event Manager Oof</h4>
+Given to users who are interested in keeping our server fun with new events
+
+<h4>Developer</h4>
+Given to our creative members who want to keep our community together through games
+
 <h4>Alternative Oofs</h4>
 Given to any alts of an Admin+
-
-<h4>Famous Dev</h4>
-Given to well known developers who are very trusted
 
 <h4>Robotic Oofs</h4>
 Given to those who go Beep Boop
 
 <h2>Special Roles</h2>
 Represented with a blue circle
+
+<h4>1.0 Staff Oofs</h4>
+Given to 1.0 staff members who were on our team till the end
+
+<h4>2.0 Staff Oofs</h4>
+Given to 2.0 staff members
 
 <h4>Birthday Oof</h4>
 Given only to you on your birthday!
@@ -45,7 +51,7 @@ Given only to you on your birthday!
 Given to Staff members who quit or were demoted
 
 <h4>Social Oofs</h4>
-Given to family-friendly YouTubers with at least 500 subs and has one of the 3 primary Oofs Of Robloxia channels or anyone we follow on twitter!
+Given to family-friendly YouTubers with at least 500 subs and has one of the primary Oofs Of Robloxia channels or anyone we follow on twitter!
 
 This role often gets changed
 
