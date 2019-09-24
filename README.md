@@ -5,11 +5,14 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Staff Roles</h2>
 These roles are represnted with a red circle
 
-<h4>Grand Lord Of Oofs</h4>
+<h4>The Almighty Oof</h4>
 Given to the Owner
 
+<h4>Grand Lord Of Oofs</h4>
+Given to the Co-Owner
+
 <h4>Lord Of Oofs</h4>
-Given to the most trusted members
+Given to the Assistant Owners
 
 <h4>Head-Admin Oofs</h4>
 Chosen by the owners, given to the most trusted and most active staff members
@@ -18,7 +21,7 @@ Chosen by the owners, given to the most trusted and most active staff members
 Chosen by the owners, given to very trusted and very active staff members
 
 <h4>Head-Mod Oofs</h4>
-Given to the first 5 moderators (will replace any that get promoted/demoted with a normal mod)
+Chosen by the admins, given to trusted staff members
 
 <h4>Moderator Oof</h4>
 Chosen by the current staff members, must be at least a recruit
