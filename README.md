@@ -20,6 +20,9 @@ Chosen by the owners, given to the most trusted and most active staff members
 <h4>Admin Oofs</h4>
 Chosen by the owners, given to very trusted and very active staff members
 
+<h4>Верховный Совет</h4>
+Chosen by the owners, given to Russian moderators
+
 <h4>Head-Mod Oofs</h4>
 Chosen by the admins, given to trusted staff members
 
